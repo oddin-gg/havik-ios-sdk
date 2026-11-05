@@ -16,7 +16,7 @@ dependencies: [
 ]
 ```
 
-Requires iOS 15 or later and Xcode 26 or later. This package is version 3.0.0.
+Requires iOS 15 or later and Xcode 26 or later. This package is version 3.1.0.
 
 ## Documentation
 
